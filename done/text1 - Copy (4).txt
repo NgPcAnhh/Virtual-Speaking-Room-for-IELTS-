@@ -1,0 +1,29 @@
+71819 INFO: Building Tree because Tree-00.toc is non existent
+71819 INFO: Building Tree Tree-00.toc
+71882 INFO: checking Tree
+71882 INFO: Building Tree because Tree-01.toc is non existent
+71882 INFO: Building Tree Tree-01.toc
+71897 INFO: checking Tree
+71897 INFO: Building Tree because Tree-02.toc is non existent
+71897 INFO: Building Tree Tree-02.toc
+71897 INFO: Loading module hook 'hook-lxml.objectify.py' from 'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks'...
+71929 INFO: Performing binary vs. data reclassification (1873 entries)
+82683 INFO: Looking for ctypes DLLs
+83311 INFO: Analyzing run-time hooks ...
+83327 INFO: Including run-time hook 'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_pythoncom.py'
+83342 INFO: Including run-time hook 'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\pyi_rth_pywintypes.py'
+83342 INFO: Including run-time hook 'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py'
+83358 INFO: Processing pre-find module path hook _pyi_rth_utils from 'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\pre_find_module_path\\hook-_pyi_rth_utils.py'.
+83373 INFO: Loading module hook 'hook-_pyi_rth_utils.py' from 'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks'...
+83373 INFO: Including run-time hook 'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py'
+83389 INFO: Including run-time hook 'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py'
+83389 INFO: Including run-time hook 'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py'
+83404 INFO: Including run-time hook 'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_setuptools.py'
+83404 INFO: Including run-time hook 'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pyqt5.py'
+83436 INFO: Including run-time hook 'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_mplconfig.py'
+83467 INFO: Including run-time hook 'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py'
+83546 INFO: Looking for dynamic libraries
+C:\Users\ADMIN\AppData\Local\Programs\Python\Python311\Lib\site-packages\PyInstaller\building\build_main.py:205: UserWarning: The numpy.array_api submodule is still experimental. See NEP 47.
+  __import__(package)
+88824 INFO: Extra DLL search directories (AddDllDirectory): ['C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt5\\Qt5\\bin', 'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\numpy\\.libs', 'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\scipy.libs', 'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib.libs', 'C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\matplotlib.libs']
+88824 INFO: Extra DLL search directories (PATH): ['C:\\Users\\ADMIN\\AppData\\Local\\Programs\\Python\\Python311\\Lib\\site-packages\\PyQt5\\Qt5\\bin']

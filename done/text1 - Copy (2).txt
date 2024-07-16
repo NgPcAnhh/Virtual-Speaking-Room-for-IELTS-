@@ -1,0 +1,20 @@
+91989 INFO: Graph cross-reference written to C:\Users\ADMIN\OneDrive\Máy tính\project\Ielts VSR (python)\design\build\main\xref-main.html
+92114 INFO: checking PYZ
+92114 INFO: Building PYZ because PYZ-00.toc is non existent
+92114 INFO: Building PYZ (ZlibArchive) C:\Users\ADMIN\OneDrive\Máy tính\project\Ielts VSR (python)\design\build\main\PYZ-00.pyz
+95236 INFO: Building PYZ (ZlibArchive) C:\Users\ADMIN\OneDrive\Máy tính\project\Ielts VSR (python)\design\build\main\PYZ-00.pyz completed successfully.
+95314 INFO: checking PKG
+95314 INFO: Building PKG because PKG-00.toc is non existent
+95314 INFO: Building PKG (CArchive) main.pkg
+137073 INFO: Building PKG (CArchive) main.pkg completed successfully.
+137104 INFO: Bootloader C:\Users\ADMIN\AppData\Local\Programs\Python\Python311\Lib\site-packages\PyInstaller\bootloader\Windows-64bit-intel\runw.exe
+137104 INFO: checking EXE
+137104 INFO: Building EXE because EXE-00.toc is non existent
+137104 INFO: Building EXE from EXE-00.toc
+137104 INFO: Copying bootloader EXE to C:\Users\ADMIN\OneDrive\Máy tính\project\Ielts VSR (python)\design\dist\main.exe
+137167 INFO: Copying icon to EXE
+137198 INFO: Copying 0 resources to EXE
+137198 INFO: Embedding manifest in EXE
+137245 INFO: Appending PKG archive to EXE
+137682 INFO: Fixing EXE headers
+146588 INFO: Building EXE from EXE-00.toc completed successfully.

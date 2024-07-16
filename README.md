@@ -26,7 +26,7 @@ Số điện thoại: 0388953819
 Dưới đây là một số video mô tả ứng dụng mà tôi đã biên soạn: 
 https://www.youtube.com/watch?v=VUjAZG3ekSY&t=13s
 
-Tôi xin chân thành cảm ơn Quý công ty đã dành thời gian xem xét đề xuất của tôi. Tôi hy vọng sẽ có cơ hội được trao đổi thêm về dự án này.
+Tôi xin chân thành cảm ơn mọi người đã dành thời gian xem xét đề xuất của tôi. 
 
 Trân trọng,
 Nguyễn Phúc Anh
